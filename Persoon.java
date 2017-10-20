@@ -25,4 +25,8 @@ public class Dier {
 		String type = this.getType();
 		return naam + " " + type;
 	}
+	
+	public void maakGeluid(){
+		System.out.println("Geluid");
+	}
 }
